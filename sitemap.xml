@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://flyinfinityofficial.github.io/</loc>
+    <lastmod>2026-01-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Fly Infinity Logo -->
+    <image:image>
+      <image:loc>https://flyinfinityofficial.github.io/assets/fly_infinity.webp</image:loc>
+      <image:title>Fly Infinity Logo</image:title>
+    </image:image>
+    
+    <!-- Sproochentest App -->
+    <image:image>
+      <image:loc>https://flyinfinityofficial.github.io/assets/sproochentest.webp</image:loc>
+      <image:title>Sproochentest Master App</image:title>
+      <image:caption>Listen, Mimic & Speak - Luxembourgish Language Exam Preparation</image:caption>
+    </image:image>
+    
+    <!-- Lux Voice App -->
+    <image:image>
+      <image:loc>https://flyinfinityofficial.github.io/assets/lux_voice.webp</image:loc>
+      <image:title>Lux Voice App</image:title>
+      <image:caption>Voice of Luxembourg - Instant Translation Tool</image:caption>
+    </image:image>
+    
+    <!-- Lux Helpers App -->
+    <image:image>
+      <image:loc>https://flyinfinityofficial.github.io/assets/lux_helpers.webp</image:loc>
+      <image:title>Lux Helpers App</image:title>
+      <image:caption>Trusted Service Directory for Luxembourg</image:caption>
+    </image:image>
+  </url>
+</urlset>
