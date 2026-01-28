@@ -1,0 +1,16 @@
+{
+  "name": "flyinfinityofficial.github.io",
+  "version": "1.0.0",
+  "description": "Official Developer Website for Fly Infinity",
+  "main": "script.js",
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./style.css --minify",
+    "watch:css": "tailwindcss -i ./src/input.css -o ./style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}

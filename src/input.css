@@ -1,0 +1,117 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Styles from original style.css */
+
+@layer utilities {
+    .glass-nav {
+        @apply bg-[#0f0f0f]/70 backdrop-blur-[20px] backdrop-saturate-[180%] border border-white/10 shadow-[0_8px_32px_rgba(0,0,0,0.4)];
+    }
+    
+    .scrolled .glass-nav {
+        @apply bg-[#0a0a0a]/95 shadow-[0_8px_32px_rgba(0,0,0,0.6)];
+    }
+
+    .hero-gradient {
+        background: linear-gradient(180deg, transparent 0%, rgba(99, 102, 241, 0.05) 50%, transparent 100%);
+        animation: pulse-gradient 8s ease-in-out infinite;
+    }
+
+    .grid-background {
+        background-image: linear-gradient(rgba(99, 102, 241, 0.05) 1px, transparent 1px),
+                          linear-gradient(90deg, rgba(99, 102, 241, 0.05) 1px, transparent 1px);
+        background-size: 100px 100px;
+        animation: grid-move 20s linear infinite;
+    }
+
+    .gradient-text {
+        @apply bg-clip-text text-transparent bg-gradient-to-br from-[#667eea] via-[#764ba2] to-[#f093fb] bg-[length:200%_200%] animate-[gradient-shift_5s_ease_infinite];
+    }
+}
+
+@layer components {
+    .nav-link {
+        @apply relative px-4 py-2 rounded-lg transition-all duration-300;
+    }
+
+    .nav-link::before {
+        content: '';
+        @apply absolute inset-0 bg-gradient-to-br from-[#6366f1]/10 to-[#8b5cf6]/10 rounded-lg opacity-0 transition-opacity duration-300;
+    }
+
+    .nav-link:hover::before {
+        @apply opacity-100;
+    }
+
+    .nav-link:hover {
+        @apply text-indigo-300 -translate-y-[2px];
+    }
+
+    .cta-button {
+        @apply bg-gradient-to-br from-primary to-secondary shadow-[0_4px_20px_rgba(99,102,241,0.4)] transition-all duration-300 hover:-translate-y-[2px] hover:shadow-[0_8px_30px_rgba(99,102,241,0.6)];
+    }
+}
+
+/* Base Animations */
+@keyframes gradient-shift {
+    0%, 100% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+}
+
+@keyframes pulse-gradient {
+    0%, 100% { opacity: 0.5; }
+    50% { opacity: 1; }
+}
+
+@keyframes grid-move {
+    0% { transform: translate(0, 0); }
+    100% { transform: translate(100px, 100px); }
+}
+
+/* Particles */
+.particles { pointer-events: none; }
+.particle {
+    position: absolute;
+    width: 4px; height: 4px;
+    background: rgba(99, 102, 241, 0.8);
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(99, 102, 241, 0.5);
+}
+/* Retaining specific particle animations in CSS for simplicity, though could be moved to GSAP */
+.particle:nth-child(1) { top: 10%; left: 10%; animation: float 6s ease-in-out infinite; }
+.particle:nth-child(2) { top: 20%; left: 80%; animation: float 8s ease-in-out infinite 1s; }
+.particle:nth-child(3) { top: 60%; left: 15%; animation: float 7s ease-in-out infinite 2s; }
+.particle:nth-child(4) { top: 80%; left: 70%; animation: float 9s ease-in-out infinite 1.5s; }
+.particle:nth-child(5) { top: 40%; left: 50%; animation: float 6.5s ease-in-out infinite 0.5s; }
+
+@keyframes float {
+    0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.5; }
+    25% { transform: translate(10px, -30px) scale(1.2); opacity: 0.8; }
+    50% { transform: translate(-10px, -50px) scale(0.8); opacity: 1; }
+    75% { transform: translate(10px, -30px) scale(1.1); opacity: 0.7; }
+}
+
+/* Bento Grid */
+.bento-grid {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1.5rem;
+}
+@media (min-width: 768px) { .bento-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1024px) { .bento-grid { grid-template-columns: repeat(3, 1fr); } }
+
+.bento-card {
+    @apply relative bg-gradient-to-br from-indigo-500/5 to-purple-500/5 border border-indigo-500/20 rounded-[2rem] p-10 overflow-hidden transition-all duration-500;
+}
+.bento-item:hover .bento-card {
+    @apply -translate-y-3 border-indigo-500/40 shadow-[0_30px_80px_rgba(99,102,241,0.3)];
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar { width: 10px; }
+::-webkit-scrollbar-track { @apply bg-[#0a0a0a]; }
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(180deg, var(--primary), var(--secondary));
+    border-radius: 10px;
+}

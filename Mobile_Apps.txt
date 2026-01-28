@@ -1,0 +1,160 @@
+1. App Name: Sproochentest
+LINK: https://play.google.com/store/apps/details?id=com.flyinfinity.luxsproochentestmaster
+Short description: Listen, Mimic & Speak
+Full description: Master the Luxembourgish Sproochentest and Secure Your Citizenship!
+Are you preparing for the Luxembourg Language Exam (Sproochentest)?
+
+Your journey to becoming a Luxembourg citizen starts here. 
+The Sproochentest is the most comprehensive, all-in-one preparation tool designed specifically to help you pass the oral and listening requirements of the National Institute of Languages (INL) exam.
+Whether you are a beginner or looking to polish your skills, our app provides a structured, stress-free way to practice speaking, listening, and vocabulary in the comfort of your own home.
+
+🇱🇺 WHY CHOOSE SPROOCHENTEST APP?
+Preparing for the Sproochentest can be overwhelming. Our app breaks down the exam into manageable modules, focusing on the exact skills the examiners look for. We provide the "Listen, Mimic, and Speak" methodology to build your natural fluency.
+
+🚀 KEY FEATURES:
+
+1. Comprehensive Speaking Module The oral exam is the most challenging part. Our app includes:
+• Topic Q&A: Practice dozens of common exam questions about your life, hobbies, work, and Luxembourg.
+• Picture Description: Master the art of describing visual scenes—a mandatory part of the exam—with guided practice and vocabulary.
+
+2. Listening Comprehension: Improve your ear for the Luxembourgish accent. Listen to authentic dialogues and practice understanding the context, just like the real listening test.
+
+3. Essential Vocabulary & Phrases: No more searching for words! Access themed word collections and common daily expressions used in Luxembourg. From "Basics" (Numbers, Time, Articles) to advanced situational vocabulary.
+
+4. Pronunciation Guide: Luxembourgish sounds can be tricky. Use our pronunciation module to learn how to correctly articulate specific sounds and avoid common mistakes that lead to lost points.
+
+5. Exam Day Walkthrough: Reduce your anxiety with our step-by-step guide on what to expect on the day of the exam. Know where to go, what to bring, and how the test is structured.
+
+🎯 DESIGNED FOR SUCCESS
+
+• Structured Learning: Organized into 8 clear sections for easy navigation.
+• Professional Content: Content tailored to the official Sproochentest requirements.
+• User-Friendly UI: A beautiful, modern Material 3 interface that makes studying enjoyable.
+• Offline Ready: Study on the go, whether you're on the train or during your lunch break.
+
+DISCLAIMER: This app is an independent learning tool designed to assist users in preparing for the Luxembourg Language Exam (Sproochentest).
+
+NOT A GOVERNMENT ENTITY: This app is NOT affiliated with, endorsed by, or connected to the Institut National des Langues (INL) or the Luxembourgish Government.
+
+SOURCE OF INFORMATION: All information regarding the exam format and curriculum is publicly available and sourced from the official website of the Institut National des Langues (INL): https://www.inll.lu/en/
+
+Please refer to the official website for the most up-to-date exam schedules and regulations.
+
+
+
+
+2. App Name: Lux Voice
+LINK: https://play.google.com/store/apps/details?id=com.flyinfinity.luxvoice
+Short Description: Instantly translate any language to Luxembourgish with authentic voice audio
+Full description: LuxVoice, Voice of Luxembourg - the essential translation tool for daily life in Luxembourg.
+
+LuxVoice is designed to help you communicate effectively in Luxembourgish. Whether you need to understand a message, check a word, or have a conversation, our app provides instant, high-quality translations from any language.
+
+✨ Key Features
+
+🌍 Translate From Any Language: You don't need to know the source language. Our smart Auto-Detect feature instantly identifies the text—whether it's English, French, German, Portuguese, or any other language—and translates it perfectly into Luxembourgish.
+
+🗣️ Crystal Clear Pronunciation: Experience Luxembourgish as it is truly spoken. LuxVoice provides native-level pronunciation that captures the unique rhythm of the language. It is the perfect way to understand exactly how to say a phrase with confidence.
+
+🎙️ Turn Voice into Text: Speak into the app and watch your words appear on the screen instantly. Our transcription tool listens to what you say and writes it down for you in real-time.
+
+Supported Languages: LuxVoice supports translation from any language in the world. You can let the app detect the language automatically, or choose directly from:
+- English
+- Portuguese (Português)
+- French (Français)
+- German (Deutsch)
+- Italian (Italiano)
+- Spanish (Español)
+- Ukrainian (Українська)
+
+Download LuxVoice today—your pocket translator for Luxembourg.
+
+
+3. App Name: Lux Helpers
+LINK: https://play.google.com/store/apps/details?id=com.flyinfinity.luxhelpers
+Short description: Find trusted service providers in Luxembourg - plumbers, cleaners & more!
+Full Description: 🇱🇺 LUX HELPERS - Your Complete Service Directory for Luxembourg
+
+Finding reliable service providers in Luxembourg has never been easier! Lux Helpers is your trusted companion for connecting with professional service providers across Luxembourg.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🎯 WHY CHOOSE LUX HELPERS?
+━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ COMPREHENSIVE COVERAGE - Access 12 essential service categories with verified providers
+✓ INSTANT CONTACT - Call or WhatsApp service providers directly from the app
+✓ DETAILED PROFILES - View ratings, experience, pricing, languages, and availability
+✓ MULTILINGUAL - Service providers speak Luxembourgish, French, German, English, and more
+✓ LOCATION-BASED - Find providers in your city or region
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🏠 SERVICE CATEGORIES
+━━━━━━━━━━━━━━━━━━━━━━━
+
+HOME CLEANING
+Professional cleaning services for apartments, houses, and offices. Eco-friendly options available. From regular maintenance to deep cleaning, find trusted cleaners in your area.
+
+PLUMBING
+Plumbers for emergency repairs, leak detection, bathroom renovations, and sanitary installations. 24/7 emergency services available from experienced professionals.
+
+ELECTRICAL SERVICES
+Electricians for residential and commercial projects. Smart home installations, lighting solutions, safety inspections, and photovoltaic systems.
+
+CARPENTRY
+Expert carpenters for custom furniture, woodwork, kitchen installations, and interior design. Family-run businesses with decades of experience.
+
+GARDENING & LANDSCAPING
+Professional garden maintenance, landscape design, tree trimming, and seasonal planting. Transform your outdoor space with experienced gardeners.
+
+PAINTING & DECORATION
+Interior and exterior painting, wallpaper installation, and decorative finishes. Quality workmanship for homes and businesses.
+
+MOVING SERVICES
+Reliable movers for local and international relocations. Professional packing, unpacking, and handyman services included.
+
+CHILDCARE
+Experienced nannies and babysitters with first aid certification. Flexible schedules for occasional care or regular arrangements.
+
+PET CARE
+Dedicated dog walkers and pet sitters with veterinary backgrounds. Daily care for your beloved pets when you're busy.
+
+TUTORING
+Expert tutors for mathematics, physics, languages, and exam preparation. Support for European School, IB, A-Levels, and university students.
+
+COMPUTER REPAIR
+IT support specialists for PC, Mac, hardware repair, software solutions, and data recovery. Same-day service available.
+
+PHOTOGRAPHY
+Professional photographers for events, portraits, weddings, and lifestyle shoots. Capture your special moments with skilled artists.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+✨ KEY FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 SMART SEARCH
+Quickly find exactly what you need with our powerful search function. Filter by category, location, language, or service type.
+
+📱 ONE-TAP CONTACT
+Call providers instantly through your phone app or message them via WhatsApp - no need to copy numbers or leave the app.
+
+🗣️ MULTILINGUAL SUPPORT
+Find providers who speak your language! Most professionals in Luxembourg speak multiple languages including Luxembourgish, French, German, English, Portuguese, and more.
+
+📍 LOCATION-AWARE
+Providers organized by city and region .
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔒 PRIVACY & SECURITY
+━━━━━━━━━━━━━━━━━━━━━━━
+
+Your privacy matters. Lux Helpers requires no registration or personal data collection. Simply browse, search, and connect with service providers directly.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🌟 GET STARTED TODAY
+━━━━━━━━━━━━━━━━━━━━━━━
+
+Download Lux Helpers now and discover why residents across Luxembourg trust us to connect them with the best service providers. Whether you need an emergency plumber at midnight, a reliable cleaner for your apartment, or a professional tutor for your child - Lux Helpers has you covered.
+
+Your next trusted service provider is just a tap away!
+
+Made with ❤️ for the people of Luxembourg
